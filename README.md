@@ -11,3 +11,7 @@ The data is sourced from Kaggle. [Click here to access it.](https://www.kaggle.c
 The dataset is presented in 3 CSV files: country_dim.csv, shoes_dim.csv, and shoes_fact.csv, and contains around 3400 shoe's data with daily updates.
 
 The dataset, sourced from Kaggle, required extensive cleaning and exploratory analysis to understand its structure and refine it for effective use in this project.
+
+**DATA EXPLORATION AND CLEANING**
+
+
