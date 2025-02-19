@@ -27,4 +27,12 @@ During our initial exploration of the dataset, we observed that some columns con
 
 Addressing these inconsistencies was crucial for ensuring data accuracy and reliability in our findings.
 
-Because the dataset is not ready for our use in its raw state
+Since the datasets were not immediately suitable for analysis in their raw state, we performed extensive data cleaning to refine them for our purpose. The goal was to structure the data effectively, ensuring it was accurate, consistent, and ready for analysis.  
+
+The cleaned dataset needed to meet the following criteria and constraints:  
+
+- **Retention of Relevant Columns:** Only necessary columns were kept to streamline the analysis.  
+- **Appropriate Data Types:** Each column's data type was standardized to accurately represent its contents.  
+- **Completeness:** No column contained null values, ensuring that all records were fully populated.  
+
+These refinements were essential to enhance data quality and facilitate meaningful insights.
