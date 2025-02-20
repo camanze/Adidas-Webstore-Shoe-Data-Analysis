@@ -2,7 +2,7 @@
 
 **OBJECTIVE:**
 
-To assess the performance of Adidas footwear and optimize resource allocation for maximum profitability, the Adidas Global Sales Director has requested an analysis of stock levels across various shoe categories in the USA, UK, Germany, and Belgium. This analysis, based on a 12-day dataset, will provide insights into inventory distribution and sales potential in these key markets.
+To assess the performance of Adidas webstore shoe data and optimize resource allocation for maximum profitability, the Adidas Global Sales Director has requested an analysis of stock levels across various shoe categories in the USA, UK, Germany, and Belgium. This report analyzes Adidas' webstore shoe data for the USA, UK, Germany, and Belgium over a 12-day period. The objective is to assess stock levels, pricing trends, and inventory distribution to optimize resource allocation and maximize profitability. The analysis provides insights into the availability of different shoe categories, pricing variations, and country-specific trends.
 
 
 **DATA DESCRIPTION AND COLLECTION:**
@@ -50,3 +50,15 @@ To standardize the dataset and ensure consistency, the following transformations
 These steps ensured uniformity in size classification across different regions, making the data more structured and ready for analysis.
 
 These refinements were essential to enhance data quality and facilitate meaningful insights.
+
+### **ANALYSIS AND VISUALIZATION USING POWER BI**
+
+With the data cleaning stage done and the dataset ready for visualization, Power BI was used to actualize that. The visuals are presented in 5 dashboards for a clearer presentation of the report. The first is an overview of all data in the dataset, comparing stock behaviours in relation to various metrics across the 4 countries under review. The rest consider each country individually. (Click Here)[https://app.powerbi.com/view?r=eyJrIjoiZDU2M2JhYmYtOTAwMC00ZDFiLThiOGMtZTg0ZjNhZGUxMzhkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9] to access the interactive Power BI dashboards, and check out the visuals in the 5 pages. Navigation on the design is made easy by some integrated features. 
+
+### **Key Features on the Dasboards**
+
+- **Dropdown Slicers:** "Category" and "Best for wear" are dynamic and particular metrics can be reviewed by selecting from the Slicer's dropdown menu for both.
+- **Country Flag Buttons:** Click on any of the 4 buttons to navigate to the particular Country page represented by the flag.
+- **Reset Button:** This is present on all 5 pages, and resets the page to default view after Slicers or other selections have been used to review results.
+- **Overview Button:** This is present on individual country pages, and takes you back to the Overview page when clicked.
+- **Sizes Buttons:** Displays available data for any shoe sizes selected. This is equally available on all pages.
