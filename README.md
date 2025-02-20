@@ -66,3 +66,8 @@ To explore the interactive Power BI dashboards, [Click Here](https://app.powerbi
 - **Reset Button:** This is present on all 5 pages, and resets the page to default view after Slicers or other selections have been used to review results.
 - **Overview Button:** This is present on individual country pages, and takes you back to the Overview page when clicked.
 - **Sizes Buttons:** Displays available data for any shoe sizes selected. This is equally available on all pages.
+
+![Overview Dashboard](https://github.com/user-attachments/assets/b53180c9-46ee-4658-898a-b3d09e9a191b)
+
+
+
