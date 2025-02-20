@@ -53,7 +53,11 @@ These refinements were essential to enhance data quality and facilitate meaningf
 
 ### **ANALYSIS AND VISUALIZATION USING POWER BI**
 
-With the data cleaning stage done and the dataset ready for visualization, Power BI was used to actualize that. The visuals are presented in 5 dashboards for a clearer presentation of the report. The first is an overview of all data in the dataset, comparing stock behaviours in relation to various metrics across the 4 countries under review. The rest consider each country individually. [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZDU2M2JhYmYtOTAwMC00ZDFiLThiOGMtZTg0ZjNhZGUxMzhkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) to access the interactive Power BI dashboards, and check out the visuals in the 5 pages. Navigation on the design is made easy by some integrated features. 
+With the data cleaning stage completed and the dataset prepared for visualization, Power BI was utilized to create interactive and insightful dashboards. The report is organized into five distinct dashboards to ensure a clear and comprehensive presentation of the findings.
+
+The first dashboard provides an overview of the entire dataset, highlighting stock behaviors in relation to various metrics across the four countries under review. The remaining four dashboards focus on individual country analyses, offering a detailed breakdown of trends and insights for each location.
+
+To explore the interactive Power BI dashboards, [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZDU2M2JhYmYtOTAwMC00ZDFiLThiOGMtZTg0ZjNhZGUxMzhkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9). The visuals are spread across five pages, and the design incorporates user-friendly navigation features for seamless exploration.
 
 ### **Key Features on the Dasboards**
 
