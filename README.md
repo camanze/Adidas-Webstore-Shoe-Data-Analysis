@@ -85,3 +85,22 @@ To explore the interactive Power BI dashboards, [Click Here](https://app.powerbi
 - **Kids:** 427K units available (€45.83 average price).
 - **Unisex:** 758K units available (€121.80 average price).
 
+**Stock Availability & Pricing by Country**
+
+- **Germany:** 1.17M units available (€95.99 average price).
+- **USA:** 0.39M units available (€119.12 average price).
+- **Belgium:** 0.16M units available (€95.37 average price).
+- **UK:** 0.04M units available (€63.58 average price).
+
+**Top-Selling Shoes by Price**
+
+- **Adizero Prime X 2.0 STRUNG Laufschuh** - €175,350.
+- **Adizero Adios Pro Evo 1** - €110,000.
+- **Adizero Boston 12 Laufschuh** - €104,720.
+
+**Daily Stock Trends**
+
+- Stock levels fluctuated significantly, with peaks on specific days (e.g., Jan 7 and Jan 9 showing the highest availability).
+
+- The UK and Belgium had the lowest stock levels compared to other regions.
+
