@@ -69,5 +69,13 @@ To explore the interactive Power BI dashboards, [Click Here](https://app.powerbi
 
 ![Overview Dashboard](https://github.com/user-attachments/assets/b53180c9-46ee-4658-898a-b3d09e9a191b)
 
+### **Key Findings**
+
+- **Overall Stock and Pricing Overview**
+  *Total Stock: 299K shoes across all regions.
+  *Units Available: 2 million shoes.
+  *Average Price: €99.72.
+  *Total Number of Categories: 17.
+
 
 
