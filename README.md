@@ -104,3 +104,52 @@ To explore the interactive Power BI dashboards, [Click Here](https://app.powerbi
 
 - The UK and Belgium had the lowest stock levels compared to other regions.
 
+**Stock and Pricing by Dominant Color**
+
+- Popular colors include "Aurora Black," "Core Black," and "Cloud White."
+
+- Certain colors had significantly higher stock levels, indicating inventory concentration in specific designs.
+
+**Results Interpretation**
+
+1. **High Inventory Concentration in Germany:** Germany has the highest stock levels (1.17M units), indicating a strong supply chain presence or slower sales compared to other regions.
+
+2. **USA Has the Highest Average Price (€119.12):** This suggests a premium pricing strategy or higher demand in the US market.
+
+3. **Kids’ Shoes Have the Lowest Average Price (€45.83):** This aligns with market expectations but could indicate an opportunity for premium kids' offerings.
+
+4. **UK Has the Lowest Stock Levels (40K units):** The UK webstore has significantly lower inventory, suggesting a limited market or supply chain constraints.
+
+5. **Pricing and Stock Disparities Across Regions:** Belgium and Germany have similar pricing structures, while the US commands a higher average price.
+
+
+### **Recommendations**
+
+1. **Optimize Stock Allocation:**
+
+- Reduce excess inventory in Germany and reallocate stock to the UK, where availability is lower.
+
+- Increase stock for high-demand shoe categories and colors.
+
+2. **Adjust Pricing Strategy:**
+
+- Consider localized pricing adjustments to maximize revenue in high-demand regions.
+
+- Evaluate promotional strategies for kids' shoes to increase profitability.
+
+3. **Monitor Sales Trends and Replenish Efficiently:**
+
+- Track daily stock fluctuations to improve demand forecasting.
+
+- Implement data-driven restocking strategies to minimize overstock and shortages.
+
+4. **Expand UK and Belgium Offerings:**
+
+- The low stock in the UK suggests either high demand or supply limitations. Expanding stock levels and marketing efforts could drive sales.
+
+- Evaluate demand trends in Belgium to determine whether stock increases are justified.
+
+
+### **Final Note**
+
+This analysis highlights key insights into Adidas' online shoe inventory, pricing trends, and stock distribution. By optimizing stock allocation, refining pricing strategies, and closely monitoring demand trends, Adidas can enhance profitability and improve customer satisfaction across its webstores in the USA, UK, Germany, and Belgium.
