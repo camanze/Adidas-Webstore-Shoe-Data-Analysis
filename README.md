@@ -78,5 +78,10 @@ To explore the interactive Power BI dashboards, [Click Here](https://app.powerbi
   - **Average Price:** €99.72.
   - **Total Number of Categories:** 17.
 
+**Stock Availability & Pricing by Gender**
 
+- **Men:** 139K units available (€110.47 average price).
+- **Women:** 432K units available (€107.90 average price).
+- **Kids:** 427K units available (€45.83 average price).
+- **Unisex:** 758K units available (€121.80 average price).
 
